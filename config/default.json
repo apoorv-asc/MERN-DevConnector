@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://apoorv123:lifeanddeath@devconnector.zjpww.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://apoorv123:lifeanddeath@devconnector.zjpww.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
 }
